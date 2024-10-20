@@ -3,8 +3,8 @@
 
 
 ### Hi there, I am Hardiksinh Jadeja 👋
-[![Linkedin Badge](https://img.shields.io/badge/-rajaprerak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hardiksinhjadeja/)](https://www.linkedin.com/in/hardiksinhjadeja/)
-[![Gmail Badge](https://img.shields.io/badge/-rajaprerak@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hardi.tech1@gmail.com)](mailto:hardi.tech1@gmail.com) 
+[![Linkedin Badge](https://www.linkedin.com/in/hardiksinhjadeja/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hardiksinhjadeja/)](https://www.linkedin.com/in/hardiksinhjadeja/)
+[![Gmail Badge](https://img.shields.io/badge/-hardi.tech1@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hardi.tech1@gmail.com)](mailto:hardi.tech1@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://01hardi.github.io/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
