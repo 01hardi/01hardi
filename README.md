@@ -3,8 +3,6 @@
 <h3 align="center">A passionate FullStack Developer from London</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
-
 
 - 🔭 I’m currently working on **Web App**
 
